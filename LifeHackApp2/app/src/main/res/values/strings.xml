@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeHackApp</string>
+    <string name="hack_true">Hack (True)</string>
+    <string name="myth_false">Myth (False)</string>
+    <string name="next">Next</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="review__answers">Review Answers</string>
+</resources>

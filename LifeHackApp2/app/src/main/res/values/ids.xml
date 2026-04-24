@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtQuestion" type="id">txtQuestion</item>
+    <item name="txtFeedback" type="id">txtFeedback</item>
+    <item name="btnHack" type="id">btnHack</item>
+    <item name="btnMyth" type="id">btnMyth</item>
+    <item name="btnNext" type="id">btnNext</item>
+    <item name="btnStart" type="id">btnStart</item>
+    <item name="txtReview" type="id">txtReview</item>
+</resources>
